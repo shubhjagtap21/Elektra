@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "B19527FC93D05F01B46338B02778EE12",
+  "keywordClasses": [
+    {
+      "name": "com.LoginKatalon",
+      "keywordMethods": [
+        {
+          "name": "LoginToKatalon",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

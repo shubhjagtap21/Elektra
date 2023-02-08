@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "51B7AAA534F8BF7FC6ADA53A86CFAF42",
+  "keywordClasses": [
+    {
+      "name": "com.LogoutKatalon",
+      "keywordMethods": [
+        {
+          "name": "KatalonLogout",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Watches</name>
+   <tag></tag>
+   <elementGuidId>4c4f9e08-7137-4293-bce1-4af0d4a6981f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AjWBX-cqwBlCZ0UJdIwpTw']/div[2]/div[2]/div/a/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-section.grid-row-2 > div.a-section.a-spacing-none.quadrant-container.quadrant-container-0 > a.a-link-normal.image-redirect.aok-block.image-window > div.a-section.a-spacing-none.image-label.aok-inline-block.aok-align-center > span.a-size-small.a-color-base.truncate-2line</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3d707e98-7b14-448d-a50b-c9dd950e4adf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-small a-color-base truncate-2line</value>
+      <webElementGuid>a825b723-73b4-49b0-be2d-8ee4e8a0c740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Watches</value>
+      <webElementGuid>bbbe8d6f-524e-4f19-9cb7-c0962d703527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AjWBX-cqwBlCZ0UJdIwpTw&quot;)/div[@class=&quot;a-cardui-body&quot;]/div[@class=&quot;a-section grid-row-2&quot;]/div[@class=&quot;a-section a-spacing-none quadrant-container quadrant-container-0&quot;]/a[@class=&quot;a-link-normal image-redirect aok-block image-window&quot;]/div[@class=&quot;a-section a-spacing-none image-label aok-inline-block aok-align-center&quot;]/span[@class=&quot;a-size-small a-color-base truncate-2line&quot;]</value>
+      <webElementGuid>ba711d16-c021-4787-9c9c-51cebbfee9ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AjWBX-cqwBlCZ0UJdIwpTw']/div[2]/div[2]/div/a/div[2]/span</value>
+      <webElementGuid>8d59451f-3eb8-4e76-8751-6d81977b60de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footwear+Handbags'])[1]/following::span[1]</value>
+      <webElementGuid>17f5d998-bcb8-483a-8964-241830ca94f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Women', &quot;'&quot;, 's Clothing')])[1]/following::span[2]</value>
+      <webElementGuid>5894175e-b56e-48f1-b3e8-0d6f7c88a76a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fashion jewellery'])[1]/preceding::span[1]</value>
+      <webElementGuid>4900744a-8d2f-4042-8c5b-7391e4c8efc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End of season sale'])[1]/preceding::span[2]</value>
+      <webElementGuid>c7edf7aa-7ffd-4835-9a21-fdb7cb53755e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div[2]/span</value>
+      <webElementGuid>06e650ce-16ec-4ee5-ac3e-4268082c2226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Watches' or . = 'Watches')]</value>
+      <webElementGuid>819dfb5d-a717-4997-befe-575c94533f94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

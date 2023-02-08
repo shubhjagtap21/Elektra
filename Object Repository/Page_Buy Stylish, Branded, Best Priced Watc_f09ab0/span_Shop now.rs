@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Shop now</name>
+   <tag></tag>
+   <elementGuidId>677b8c65-1796-4bf1-8774-09dbb41f5d42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='sobe_d_b_13_1']/a/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sobe_d_b_13_1 > a.sl-sobe-carousel-sub-card-link > div.sl-sobe-carousel-sub-card-footer > span.sl-sobe-carousel-sub-card-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>726c4499-8e54-4cb6-a21d-7f22d5705fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sl-sobe-carousel-sub-card-title</value>
+      <webElementGuid>02d562ef-f033-48c4-b84c-82361e43ba2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop now</value>
+      <webElementGuid>56c80cf0-868e-4eee-92ed-2c42947b0c7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sobe_d_b_13_1&quot;)/a[@class=&quot;sl-sobe-carousel-sub-card-link&quot;]/div[@class=&quot;sl-sobe-carousel-sub-card-footer&quot;]/span[@class=&quot;sl-sobe-carousel-sub-card-title&quot;]</value>
+      <webElementGuid>0309b505-dc14-4457-b42b-08dd38403d31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sobe_d_b_13_1']/a/div[2]/span</value>
+      <webElementGuid>a3251dd9-96d9-4f71-908d-ff54fb596bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Budget buys'])[1]/following::span[1]</value>
+      <webElementGuid>90f42d9f-0acb-473d-824e-12339fe955d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sporty'])[2]/following::span[1]</value>
+      <webElementGuid>c7a2f20d-a6ba-4884-894c-b9fa3f5ab07b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop now'])[7]/preceding::span[1]</value>
+      <webElementGuid>e2925a1b-a0e5-4f5e-b162-f45aa109ab38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop now'])[8]/preceding::span[2]</value>
+      <webElementGuid>b7c6038c-18ba-4a34-83a6-03ac5a275165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/section/div/div/div[2]/div/div/ol/li/a/div[2]/span</value>
+      <webElementGuid>e7163578-7f60-4b03-9921-ac8727533900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Shop now' or . = 'Shop now')]</value>
+      <webElementGuid>b209f347-6c81-4de1-adbf-ea6e2a2406bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
